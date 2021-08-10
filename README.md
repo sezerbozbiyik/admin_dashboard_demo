@@ -1,5 +1,5 @@
 
-###SEzer
+Admin paneli hazır şablon kullanılarak hazırlanmıştır. Üzerinde birkaç değişiklik yapılmış ve Login ekranı eklenmiştir.
 
 
 
