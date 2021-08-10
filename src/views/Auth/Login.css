@@ -1,0 +1,83 @@
+html {
+  background-color: #1c8ef9;
+}
+.center_div {
+  border-radius: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 500px;
+  background-color: whitesmoke;
+}
+
+label[name="email"],
+label[name="pwd"] {
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+}
+
+label[name="chk"]{
+    margin-top: -2px;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+}
+
+input[type="text"],
+input[type="password"] {
+  padding-left: 10px;
+  border: 1px solid #d8dce1;
+  border-radius: 3px;
+  font-size: 16px;
+  height: 30px;
+  width: 250px;
+  background-color: white;
+}
+input[type="checkbox"]{
+    width: 16px;
+    height: 16px;
+}
+th {
+  padding-bottom: 20px;
+  padding-top: 90px;
+}
+th > a,
+th > a:hover {
+  font-size: 23px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+}
+td {
+  padding-top: 8px;
+}
+table {
+  margin-top: -100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button[type="submit"]{
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    border:none;
+    background-color:#167BFF;
+    width: 266px;
+    height: 44px;
+}
+button[type="submit"]:hover{
+    border: 2px solid black;
+}
+td>a,td>a:hover{
+    color: black;
+    float: right;
+}
