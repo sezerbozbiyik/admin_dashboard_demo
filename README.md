@@ -1,8 +1,8 @@
-### Admin Panel Demo'su
+# Admin Panel Demo'su
 
-## Admin paneli hazır şablon kullanılarak hazırlanmıştır. Üzerinde birkaç değişiklik yapılmış ve Login ekranı eklenmiştir.
+### Admin paneli hazır şablon kullanılarak hazırlanmıştır. Üzerinde birkaç değişiklik yapılmış ve Login ekranı eklenmiştir.
 
-### Sayfa içinden örnekler
+## Sayfa içinden örnekler
 
 ![calendar](https://user-images.githubusercontent.com/71348963/128923713-c3bd991c-cf57-47b2-bc20-5511226e1b21.jpeg)
 
